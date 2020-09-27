@@ -3,3 +3,4 @@ name: example-environment
 dependencies:
   - python=3.8
   - numpy
+  - more_itertools
